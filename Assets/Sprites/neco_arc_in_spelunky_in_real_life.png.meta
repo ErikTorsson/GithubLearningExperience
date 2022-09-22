@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -117,7 +117,6937 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1926
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0f9c3db0514cd4db2a0b39f4cbfcb9
+      internalID: -529798593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1930
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0444d39a60afdae49861c4d368922b06
+      internalID: 266696797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1929
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b13571d2093934aa2922fd3ac7747a
+      internalID: 173914678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1928
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a1c6d83691828408a99d20ac3ebfc1
+      internalID: 553006936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1922
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aacb95404e8814f9b6605d1c700a73
+      internalID: -1852193773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_6
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1928
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfb2f13878d6024e86550703056fa2f
+      internalID: -1319745471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_8
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1927
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a601eeecd87d7b84eaac7301860acd06
+      internalID: 2086226753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_9
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1928
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2c726ed9dfaee49832bfc26b867ea4
+      internalID: -944535959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_10
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1928
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841915f1d4fc81049824094ea981bfa0
+      internalID: -228445166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_12
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1926
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350d09990ae15a646998a6cbc8efd22b
+      internalID: -11759595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_13
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1925
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028cd614cffcc9e4aadb8e5fcd71d65f
+      internalID: 1094054290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_14
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1920
+        width: 67
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1c7212a8f4b2345baf38eed7d7816d
+      internalID: -45727779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_15
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1919
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae30e54593f95364a9ebf98281ba80d9
+      internalID: -2134443559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_16
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1919
+        width: 67
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f65dca956c1446afa0080b92ad832
+      internalID: 227005227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_17
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1919
+        width: 66
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff03898a691abf42bde1433b0d05111
+      internalID: 635351170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_18
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1918
+        width: 67
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b3138c2d2dd614a9feb4c219d15bd5
+      internalID: 260273765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_19
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1918
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f592844e192d72044b11b70a6274e356
+      internalID: -1741428048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1799
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6809b91e9d3518c49a8bde6512298150
+      internalID: 502565947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1799
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53ae5dfdfe5c5a44928f6a891afd54b
+      internalID: 2075736556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_22
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1801
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202a17530ff8efa4d999a8b38a2a20de
+      internalID: -1836585125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1799
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36541960e3346da4097813e20a6334ae
+      internalID: 1764081617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_24
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1799
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a728008d91c90894a82c92425c6a8b54
+      internalID: 1270077092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_25
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1799
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae07a9a39658be642adfdbce6721ea50
+      internalID: 1003512511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_26
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1799
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a59c659e6f8a484e90c19ceee5477dd
+      internalID: 2019598312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_27
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1799
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c9eeb740f4f2e41abec407736f2ba9
+      internalID: -543302946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_28
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1799
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c970bce41e9cc74bb277b6e984422fa
+      internalID: 1126984032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_29
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1799
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68d795cf1fe07b47b8f73b68700b94a
+      internalID: -2004832862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_30
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1799
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3310e7c0ba671ef42827a065ee6c6a29
+      internalID: 1189160536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_31
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1799
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79da41515e7c34b4baa155523d9900a4
+      internalID: 1783669354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_32
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1250
+        width: 333
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d8235a893dc3f4fb2ce1c2df877ddc
+      internalID: -759099127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1669
+        width: 61
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd25bf2f7f1e414aa952a7969030184
+      internalID: -1805855130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_34
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1681
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe1ad61d5675174fa42b91a4c936238
+      internalID: -1248571500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_35
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1692
+        width: 105
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70993e28c1d98de49a679764ceaa92de
+      internalID: -2073395354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_36
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1679
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee02ae28caada45409a39a33bc7e8d20
+      internalID: 2048805041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_37
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1672
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cb992c459b77e428d9fbc8436e75c9
+      internalID: 886384520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_38
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1678
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7001156a53ffcef4cae20ca28b8f3bf8
+      internalID: 2135495882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_39
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1682
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5442427b766934540a055ba30db114b1
+      internalID: 1848506598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_40
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1679
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3094506f320ea0f42bcdd827c9097f11
+      internalID: -472309038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_41
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1682
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1e41edc7f975746a34c30bc6a46c6f
+      internalID: 968169540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_42
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1672
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de09dde1ab0dae4c887da01b4628489
+      internalID: 654631485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_43
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1672
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc41188f98fd42459413ade9b90ba61
+      internalID: -2139794544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_44
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1671
+        width: 77
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e6a3109a86c6844bc5ee64a48c21a0
+      internalID: 1882640855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1538
+        width: 71
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97faac14d8c2b64b83bdc54f2006384
+      internalID: 1037512575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_46
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1538
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fb63ea4c32c934b9dc101b3dd40160
+      internalID: -1879241860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_47
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1538
+        width: 61
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88db43dace3c1f4ba789695091cfd41
+      internalID: 675906347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_48
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1538
+        width: 81
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efb7b6f47d8e5745a21df63755ca9f6
+      internalID: -1945261633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_49
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1539
+        width: 71
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0444801aabb0af8418934d0faaf15faf
+      internalID: -118426947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_50
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1538
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7084e0c80fd7ed64295a8163fbfcf66f
+      internalID: 1870426406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_51
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1538
+        width: 61
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf918f66adf254469763c5f851e181a
+      internalID: 1974773956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_52
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1538
+        width: 81
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb68f4bf3501bc428ed388185e1f9cd
+      internalID: -444271928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_53
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1543
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7ef84b1a9d2a448b3e5c690b2dcda0
+      internalID: -1872116597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_54
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1542
+        width: 85
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb57b3074e353747a0a7313d46a33bd
+      internalID: -201875120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_55
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1543
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd8c1e4a2c91dc4c81017081924cdc2
+      internalID: -1782801410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_56
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1583
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bfd65760e5d2e4da6780e3073c5451
+      internalID: 1631984434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_57
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1543
+        width: 73
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42479bf0fadd9a341a2ff1c073fe49bf
+      internalID: -59196495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_58
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1584
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cc8b75a70996f46ae77df4b85e27c9
+      internalID: -1860531399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_59
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1416
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed793c6175995774781a9c94f6496f70
+      internalID: -1218990211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_60
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1415
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa041ace3779fd84da8307da289935e7
+      internalID: -159935118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1415
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35765147b17cfe941a2a5ca7c4527555
+      internalID: -984926795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_62
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1415
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da522dca189b30243855da6437fca520
+      internalID: -1426087076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_63
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1414
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5118eb6045a2ac542bd928dd39f3037c
+      internalID: 829100932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_64
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1415
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83101f89045e01c4f919e1df4d151eae
+      internalID: 252417455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_65
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1415
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1bea3ad86797941aadd9b76b5c71a9
+      internalID: -565640597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_66
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1415
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c01345128512841a974cb3ae22f2d9
+      internalID: -459856697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_67
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1415
+        width: 85
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205345fdb602d35448333483b6d59260
+      internalID: 131711886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_68
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1415
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab218a3264aede345941234049ab0075
+      internalID: 1392190825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_69
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1415
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badc7f01dfe2d0542978fcfa517ea11e
+      internalID: -1406913587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_70
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1286
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d920a1e684215429fa781d42b54f53
+      internalID: 1273161416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_71
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1284
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d934fafc2109d545b39562defad8c2b
+      internalID: -1932581181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_72
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1283
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b8b9d4d3ed32e45828ddcfadb25ab4
+      internalID: 1649145986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_73
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1282
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12538e42899fb324b8b97b74435d4661
+      internalID: -1211560250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_74
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1282
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f53be3c7ca73f4b9c66af8dc33deeb
+      internalID: -1692323177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_75
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1282
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f35738ec21413c4f9d0f37b5250f942
+      internalID: 1101075205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_76
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1283
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913faeac66d0be544abb07bbc023a3d2
+      internalID: 46069387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_77
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1283
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610187423f98c71489484eaec71e3d96
+      internalID: -607363807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_78
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1283
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aac946fccd977a40990b9a94bc010d1
+      internalID: 633243179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_79
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1286
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c1be85c50a48b44a30cebd710797f2
+      internalID: 117523493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_80
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1286
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4deac954f80ad6478d7bfcc2a8d48b4
+      internalID: 1528949979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_81
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1287
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e61e4cd1563a2448ff0364fd1263bf
+      internalID: 1922098774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_82
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1155
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4373da277a5c646b0d4825eb98fc74
+      internalID: -47927024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_83
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1155
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd78eb69647dde40b336d60bcfe5982
+      internalID: 1293555478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_84
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1156
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d44d8e05e6bef40a0e2a10b08a6ce2
+      internalID: 1746845476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_85
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1157
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94950ff1ac0f6dd469cf602968d94216
+      internalID: -327886425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_86
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1156
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177bf7def77fc3c47a5e58dc3806c40a
+      internalID: -1732572454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_87
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1154
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf53ea45837fa340bcf4a8906a3d0aa
+      internalID: 579660333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_88
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1157
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eadbc466c309684283bd2509a5134ff
+      internalID: -1531054678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_89
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1154
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799d0ba21e734714fa02d08058b42d67
+      internalID: -1652619508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_90
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1155
+        width: 126
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c988c858171ab974483fafb6c7357bef
+      internalID: -1835764955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_91
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1155
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1daf96cc7113944923bd4a559c7e57
+      internalID: -1023259888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_92
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1154
+        width: 105
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d7abb65dc327c4eaba8754f58b1193
+      internalID: -953929038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_93
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1157
+        width: 87
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7209ad2bd46185b4b8375b7ed53c4fe2
+      internalID: -889818260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1028
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af0a0aaa10fd344ea65c5f878b0e5be
+      internalID: 989714737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_95
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1025
+        width: 44
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2816cf901a77e4bad30ca1ed0f5b51
+      internalID: -1103728860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_96
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1023
+        width: 37
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5724c2b5e52f9cd429df23b839d5d1c6
+      internalID: -1818622290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_97
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1023
+        width: 37
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b3b02b575b894419cbc41ef63c730a
+      internalID: 35000794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_98
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1023
+        width: 43
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29a0f819a1733f44a034caefd60ffef
+      internalID: -1217054096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_99
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1028
+        width: 45
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f670112365a50040840ebed54256df2
+      internalID: 1590983258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_100
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1025
+        width: 44
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c2aa8f6239ea34d9a4b08946e5b18c
+      internalID: 1174538933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_101
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1023
+        width: 37
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357630a9ff4abf54ab81d597dd469588
+      internalID: -348714697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_102
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1023
+        width: 37
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3836517edb9b9409fc81c9cac577c6
+      internalID: 861622940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_103
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1023
+        width: 43
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f7ba7f273d2b941b7c6946c437ce11
+      internalID: 1757344597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_104
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1035
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1eb0cb00790ab459abbac412ad44da
+      internalID: -1533931913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_105
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1035
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41c214cbdc54a54bb5fbed33c2b313f
+      internalID: -641658615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_106
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1037
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89cbd8d1d3a1f047b23900f48a910a3
+      internalID: -195090024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_107
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1035
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acd6b7c46433974086a20b156feaac1
+      internalID: -1172622508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_108
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1035
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314bee77c028bbc409802dc776ee7d37
+      internalID: -242286716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_109
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 902
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624b7a8eab131fa479b2eb7fcd3841b0
+      internalID: -1861026069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_110
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 903
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195ee6215cea51f49bd97254f02b880b
+      internalID: 398125826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_111
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 903
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97de123f97b69ce4b9f6fd1142aada65
+      internalID: -1098339089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_112
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 903
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff1290f6a0154e41828c9e403b7bc2e
+      internalID: -963031970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_113
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 903
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a094368c2ba1734f9c71615a3d4bbac
+      internalID: -1992675595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_114
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 903
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cacf2ccc64a1744a99aa8a0c14eebd9
+      internalID: -80344248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_115
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 900
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1846bb38b53a3624bb41cabcd60cc12c
+      internalID: 1026170700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_116
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 907
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdab332e65b8cfc47bdd8ba889aa84a3
+      internalID: 274524377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_117
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 906
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc17323ba9d094791a8461af331e9e
+      internalID: -579200670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_118
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 909
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f477d01943964469de96ea671cbb50
+      internalID: 1974814122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_119
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 908
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d3534b14f05a04799fc03cd7915b9d
+      internalID: 1570135207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_120
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 909
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006a0ef5c598f254b9e5502253059f91
+      internalID: -384380802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_121
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 908
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f761001e4f17c4a8722c7411327a27
+      internalID: 727932504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_122
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 911
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50ccb01c55cb6f4da55bb3a57df9239
+      internalID: -1512960278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_123
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 910
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fe9124094f5f3469ed99f3a63fb4c3
+      internalID: 1124184295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_124
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 776
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf813de28259884dab3aba289b2a7c5
+      internalID: 1314871449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_125
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 774
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564aa729bb2d9484798a29c8f8b765b8
+      internalID: -1802205170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_126
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 770
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc052f5a89cddd49b1f0c7238143283
+      internalID: -1710072061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_127
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 773
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b593e470937779b4ca79d2da030f0668
+      internalID: -4943254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_128
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 774
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3367cd1123cd74496f23c354596faa
+      internalID: -535197756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_129
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 774
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec81391ef24457b4cb8acf991888e4ef
+      internalID: 2041617252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_130
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 774
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a008eecaaa5b65643b850730ca5cc532
+      internalID: 1904389203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_131
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 771
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57963d057a71d6548a3ff35e174063c3
+      internalID: -236976753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_132
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 776
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be74109c67dc8a4ca69879fe11eb81c
+      internalID: -785971805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_133
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 784
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438b6b177213f004183e1c994b61a323
+      internalID: 107663066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_134
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 786
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db3ae29b5da21d40a8bce6925ff8b23
+      internalID: 1184318980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_135
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 783
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8050ff35467ead4eba2870d90345bee
+      internalID: -1868049979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_136
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 648
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682cc6f56fdf49f48b14920927fee5a4
+      internalID: -1887380334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_137
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 649
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95ee3dba497ac1439bea26fe27e3c6c
+      internalID: -2042331017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_138
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 648
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08598cd76464c5438ddc1bea6bbfc89
+      internalID: 552798950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_139
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 649
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec214da9b89305f40aaa0c83848fa42e
+      internalID: -987155347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_140
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 652
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c78ec4b6007f5843940d59673135e7e
+      internalID: -1069098162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_141
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 651
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4827eb76a8a0940b8f9e956347e710
+      internalID: -1879487287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_142
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 651
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b128f0a73219ea40a1106eb7e8a9bff
+      internalID: 1123890331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_143
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 653
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60d206e8fe294c46b5f3c3f84f2fe47
+      internalID: -1836304302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_144
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 651
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c9d6efe58917f48be306eff22ed71a
+      internalID: -1612658042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_145
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 653
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7367967a832ef42bb6391bdf51368a
+      internalID: -1847381786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_146
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 650
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077e4aae171afe4428bff7325234f453
+      internalID: -558701786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_147
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 649
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713d0cce611fb7f46934fc4de6c99987
+      internalID: -554691411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_148
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 649
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3503386e90eb3984fb6aaf904623b13a
+      internalID: -473060703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_149
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 647
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ba49ba60701924f98dc4c04dd2884f
+      internalID: -1275810660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_150
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 649
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308d7567db3b5654ca6e7820256298dc
+      internalID: -1817389900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_151
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 651
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fbea444f87b034ba71d6147b51980a
+      internalID: 125155674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_152
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 520
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fd345e61de2ae4d83b2d7073b44d2f
+      internalID: -1153620714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_153
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 519
+        width: 95
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98105d63a04792498500fbf7ae82cea
+      internalID: 542138149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_154
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 517
+        width: 120
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20156f9c228c99f43bce3b3ad3bfeb20
+      internalID: -368601902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_155
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 556
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99d83566244f3b42af285dcbe4de7d5
+      internalID: 1876345317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_156
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 564
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0c31900f69ccc4f9781af69de26d86
+      internalID: 1740593912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_157
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 527
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44970f33932bcd847a53e53ab09567f1
+      internalID: -1981766531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_158
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 542
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3cf7858f4941e43ac4ac6b32682bf1
+      internalID: -82447633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_159
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 537
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cac99ce3be7c249a9a43c0ebf5ec4b
+      internalID: -130926269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_160
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 542
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6bf9b8a836ba446a6628fd6e82d976
+      internalID: -51158015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_161
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 537
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40fb53ca2915e741b99ea2c9c541e71
+      internalID: -865545014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_162
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 539
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c51baec7a137a246b25c41f54bab95b
+      internalID: -1258177481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_163
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 520
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a1a0e9d4d975245a09223cfdfb5090
+      internalID: -22673236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_164
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 480
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4022e01d48ef0a04598b4447d4c31e75
+      internalID: -2106134804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_165
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 518
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf6f3abfe0dd99458aea1ae48b6fabc
+      internalID: -1311057333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_166
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 513
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa4af2b5a2c33146ac545be0672cba5
+      internalID: -1428771067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_167
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 513
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2accb175d38a26647b5f236cc7bb235b
+      internalID: -1408748544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_168
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 515
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9d1cfa8f114a74ca60b45cdfb9db1b
+      internalID: -1533945885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_169
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 384
+        width: 20
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9acabf14b9fa94fbe0f9836dc8c181
+      internalID: -128143895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_170
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 435
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f1eebb40e9bff469881abd92a56b72
+      internalID: -1278669382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_171
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 496
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d471f4ba758be4ea8c6345a0537e0e
+      internalID: -1194583429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_172
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 462
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87106b4e61fa904418610d76a33af897
+      internalID: -140998799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_173
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 387
+        width: 22
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01423da07da1cef4ba14e5fac455024b
+      internalID: -2075314180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_174
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 392
+        width: 21
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eeb86ea385ec542908696381bee8c1
+      internalID: -2086637264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_175
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 420
+        width: 39
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f240d78a1ae83664d9b27eb1194f879a
+      internalID: 285042442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_176
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 448
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc8cc57ed2b044aa53b06a26641764
+      internalID: -169524758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_177
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 474
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9c2f9d5ccaa624bbd0e2db880d7f82
+      internalID: -429836128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_178
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 405
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a62cbbacae5854581390b22f95c287
+      internalID: -1697015015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_179
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 405
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f275ef58ccb06d4d97968e231caec72
+      internalID: 777117396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_180
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 405
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9ab2bf22c4f484da68f906230ae1e0
+      internalID: -1274027017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_181
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 405
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fba0c810b6c364a907ac05fdb3628a
+      internalID: -439845165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_182
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 419
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b398843b4c7c2f44491734da42ff7ded
+      internalID: 1664958923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_183
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 403
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cab7a6e38205a4daa6e775d7e9032e
+      internalID: 816460784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_184
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 386
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e261d30c5e37a44a2e7f48a454a610
+      internalID: 148120480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_185
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 437
+        width: 122
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b1545e7ea307d4a909c15ba89c931f
+      internalID: 724388194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_186
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 437
+        width: 122
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a08b1dd9d8e33e4781f8b177d9f714b
+      internalID: -219165353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_187
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 323
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caabdb7727328f641b8948f43f6ac0fe
+      internalID: 452857960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_188
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 328
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ddacdac32197d499156361c737e908
+      internalID: 2132816037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_189
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 330
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4224224919a0a394190035f73234e085
+      internalID: 1369006707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_190
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 328
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddbb0aa3e92ef74cabc9f3ab739125e
+      internalID: 1256626525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_191
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 324
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b879857a7909348ac56a83315ed0fe
+      internalID: -1522664810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_192
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 323
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c31734f5020cb4498597a8aeef7aea
+      internalID: -1268889891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_193
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 329
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d1a110d1133674eace82c4c5bed816
+      internalID: -1853945892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_194
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 328
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824803a834975d44cac7b6038495ac4f
+      internalID: 1688078927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_195
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 324
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c058906938b2994439f7ebf6bf31dba0
+      internalID: -65207685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_196
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 323
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf3d25294b309d40978ab473b0e4265
+      internalID: -779398162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_197
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 329
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b064ba167663374899608ce96bbf26e
+      internalID: -2043012072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_198
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 323
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbe3904eb1257e4aabd8520b4c7ee14
+      internalID: -2093535639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_199
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 323
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846946502cd2f4846a98aea7ace1459b
+      internalID: -28768706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_200
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 328
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d50d5446adc0940a5cdbc664bdcf38
+      internalID: 82350679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_201
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 329
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224ed88ffc4305646b4bd0e399c7e4f5
+      internalID: -350676734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_202
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 327
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39acb6e1eb25f442b85c7005708d126
+      internalID: -740147212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_203
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 323
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62d7b1b8a37e264f952df6a466f24c1
+      internalID: -801639807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_204
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 324
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d2ba76281017e4e9a55b6ecbd3700d
+      internalID: -666428325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_205
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 328
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed80cdc55a7053e4bb5ddbd81d8f4fdb
+      internalID: 993034589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_206
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 330
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72d7e18922895a4aaac3d2f4cf4d052
+      internalID: -274093877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_207
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 323
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbf6314486dbed48b326e4173381a0a
+      internalID: -1839226809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_208
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 324
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd497d00f71c1ce44b9b05a0b81c6d50
+      internalID: -1918580401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_209
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 328
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d634f74e226aaf41baec374fb204076
+      internalID: -623329051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_210
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 330
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6ead578a3fbd741968e74c5a4a9924
+      internalID: 105883641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_211
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 328
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41204b89192c5b4bbf18294acf857f0
+      internalID: 743550495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_212
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 324
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a483d345ae097e46b8e5bcf347144ab
+      internalID: 322818022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_213
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 324
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd2cf016a30c454989aa444a7935549
+      internalID: 489703941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_214
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 328
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94292149d7931de49b8df185b11334c0
+      internalID: -675862970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_215
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 330
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db236331d883443a36f6eae6ad450b
+      internalID: -467929902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_216
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 328
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4716130c899d7e4189565ef13854a7e
+      internalID: 1249390353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_217
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 324
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b20f1c0125fe8a4695a0bdee2baaf8d
+      internalID: 909319124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_218
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 324
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b6e0944d4f1ff45858754238d963a9
+      internalID: 381153698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_219
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 328
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830bfa64792f53a43886ab01de9d4fc8
+      internalID: 1958193133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_220
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 330
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6a6e6dfc09a484ab0a2fab176f8cf1
+      internalID: -1475134986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_221
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 328
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62777b0b9ebe6641b19efc0e5ba099a
+      internalID: -1068661237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_222
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 324
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29872b44f251b0e4fbff21eca76c2a95
+      internalID: -81254948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_223
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 324
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11613762d29aaa48affa23ed8c671e3
+      internalID: 2060335473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_224
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 328
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0550d5bc6816d174491fc489d3157c9a
+      internalID: -1511988801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_225
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 330
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499e9736cbae49a478a675b90bebc343
+      internalID: -1100279325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_226
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 328
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e589ca79aca75498bea08bd0f8de5a
+      internalID: 558170987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_227
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 324
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd0c81257d4f364387b5c2e413834ee
+      internalID: -806147538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_228
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 325
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89783a4c3bcc65a4d9951ce3374fe060
+      internalID: -1918545895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_229
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 328
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5f32c344a32d746a1fd2c7e467d8d8
+      internalID: 292551133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_230
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 330
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7f1b46296d8a04dbc995fdc2449535
+      internalID: 1650554331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_231
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 328
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219fc6df0010d6840a477e182be94203
+      internalID: -385952792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_232
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 324
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e857f0cf62bfa49b9c9003baa1c723
+      internalID: -1956266795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_233
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 324
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b853931913c00745bdf5dd3c5df9dee
+      internalID: 1767658363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_234
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 329
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7feb4f683131240868d1191acbd3de
+      internalID: 1166792001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_235
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 330
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb26be6ef6fdb064eb7c53554362641b
+      internalID: -52669662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_236
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 328
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932f15f1d85924e419a38191bd0c1caf
+      internalID: 1766765278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_237
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 324
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecde89810bf41df43838384255bcc83d
+      internalID: -1602893572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_238
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 324
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9caa8240845c64ba0d19c18ff31886
+      internalID: -1949877380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_239
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 328
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d373bb7b3354e8749be8f6388fe58e94
+      internalID: 639142951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_240
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 330
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44abd381c0ce26459a369258200b92a
+      internalID: -1176861100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_241
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 328
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734743548084d814eac591a51d654c20
+      internalID: -494772252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_242
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 324
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df892639f879b374f80d69029889f87b
+      internalID: -2095762668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_243
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 318
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edac491a292ad14f8e0980ae8a01569
+      internalID: 640561408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_244
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 318
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c61a9ac21dcb348820ce576dd52637
+      internalID: 2055037514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_245
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 318
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adde55cfb8634e54a812f5dea63c742a
+      internalID: 2088365929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_246
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 318
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb26554b015369419983ba6419e90fd
+      internalID: -123110571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_247
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 317
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e108d7e04990144a86224ad1e4f899c
+      internalID: -1374530352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_248
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 317
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0ae28b3d1865344a07a54519a97f89
+      internalID: -570669464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_249
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 318
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210d96e30be3c734d956fa87050858ce
+      internalID: -1465730029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_250
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 317
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9adcd9ea156daa4d87d4f2d6f5909fa
+      internalID: -1119203039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_251
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 318
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c30fa9e0965c946be8ed5e582e3818
+      internalID: -2095746174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_252
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 318
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2a1817a509fef4895b1da5b46434e8
+      internalID: 2059095627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_253
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 318
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f63695e21b6d64aafbeedbdfcf81db
+      internalID: -1648327474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_254
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 318
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bfb20dd5bf9374cb6a396b44105f96
+      internalID: 618328176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_255
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 318
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97afcbb3ae9b84c4f904970fefdb1a12
+      internalID: -356897646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_256
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 318
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee5e7c5af9c1b248b34debb55e2147e
+      internalID: 1654617932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_257
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 318
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577ab491a280ef04cbd80fe07beb6c8a
+      internalID: -918928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_258
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 318
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ba0c2219bcb5a40bb4ad27dabc146c
+      internalID: 1286008292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_259
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 318
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde8bb6177a184a4f92c7aaaac57887d
+      internalID: -990180961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_260
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 318
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b343a4c021e589d4788ef513a17a2c37
+      internalID: -114547412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_261
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 318
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3de7758366ec247931905caf3f0904
+      internalID: -1942541367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_262
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 318
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e06ca1e66d9b1448b67d8237bdc0be
+      internalID: 1291196039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_263
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 318
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ef2f4596b358943a6be89cbf4e695e
+      internalID: 2031846433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_264
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 318
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2ee92bb86f6a446ba7addc85ecf124
+      internalID: -484373563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_265
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 318
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57c513a741f81e47837b643b6c6979a
+      internalID: -167280989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_266
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 318
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4266c8e678803cd4bb16c9cf2d7b578b
+      internalID: -245076658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_267
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 307
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6352844bc4564148bea97e8daf6ded7
+      internalID: 360851684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_268
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 299
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f131362ce0e3a2842b181c5b9db13cc2
+      internalID: -1741832298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_269
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 295
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cfa6e83145f624688c0bb99c71ba28
+      internalID: 1288942709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_270
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 299
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a978760d0d9d7ae4aa79207957087e99
+      internalID: 557810821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_271
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 307
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b828dbbad835a489ac1dc2b3f0b643
+      internalID: -1041533508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_272
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 307
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6997a9c2b79324b46a037fc566e56f56
+      internalID: -55197123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_273
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 299
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eff04f8e976df1438fbcab25b36240c
+      internalID: -867444126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_274
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 296
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24710ffef370e0747944683ef3ee7636
+      internalID: 74700673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_275
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 299
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7dc57e069a86b45b857b4fc30b3801
+      internalID: -1846900175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_276
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 307
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3755e579e8a4a942ad33afe732b953e
+      internalID: -98183014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_277
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 299
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813d450c7c68b844a9d894af94e03aa3
+      internalID: 751777564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_278
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 295
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101a76c68b317c648886bf1eacc1c250
+      internalID: 541907247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_279
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 298
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0074035d9d8f68429c6014a39a06f45
+      internalID: -1390075893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_280
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 307
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8507d32d685946f48901089c51e57a96
+      internalID: -1940470925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_281
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 298
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e8bf8d6e73af4180ae4608d4c68e7
+      internalID: -546869658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_282
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 295
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72250ab966e864448993b81ad92c1a9a
+      internalID: -598163984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_283
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 299
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9955b193d2cf3a94dbaa51b8c4e15080
+      internalID: -292354371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_284
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 306
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe37dc2afb03314c96f25569c23b867
+      internalID: 665545628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_285
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 307
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80814d560a11847408a820300f067f64
+      internalID: -994259592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_286
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 299
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc38b7b731fada4a80d7f0a919645aa
+      internalID: 1672269311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_287
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 295
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a9fe532cddaf94693b8df900191b4e
+      internalID: -455644796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_288
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 299
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9883fbb2877b185489681b57ba7f13f1
+      internalID: -1810205482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_289
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 306
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015fb8b9e23636e49b38731657b546e6
+      internalID: 1456963622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_290
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 307
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075847bac7b9e0948941efcf46137da8
+      internalID: -1669651056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_291
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 299
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66d7e56f204aae489d48af9f1c08ab6
+      internalID: -1479586457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_292
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 296
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66b4cd4c558ab244a2b52efdcc9d2cc
+      internalID: -178730202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_293
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 298
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c04fc1c6b54f04994d5545a53bc519
+      internalID: -1688700427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_294
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 307
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517bccc210da1d744a57a174f03ea53b
+      internalID: -1205251733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_295
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 307
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f85af5051d67d4483f05c983f6aa1f
+      internalID: 1314888436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_296
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 299
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a6957ea49b7274198212226b598455
+      internalID: 656540582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_297
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 295
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10894bb33e0f8147a25e33dbc46b867
+      internalID: 619836650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_298
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 299
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11ad35bc65b8f34aa724059d7300e67
+      internalID: -1302402603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_299
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 307
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ca0045b25b8f34797fb8b0a892ec95
+      internalID: 484896551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_300
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 307
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cc7d43673592447a2104bfdd9ed808
+      internalID: 1006331959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_301
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 298
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba9fbbabf0d69143a185153b8b8a749
+      internalID: 1767193432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_302
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 295
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2dcb4a56859ec4baabd8827d8655ef
+      internalID: -988904604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_303
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 299
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a2d6ea6902b6446b2fe9a37d240439
+      internalID: 627546381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_304
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 307
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd9ff9e03d4f234babf59917cb3b794
+      internalID: 1409653926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_305
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe4a5ea0bd5f2249bbc70774a6215fb
+      internalID: -679457181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_306
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 296
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c0962cef187584b97a481283a9c46c
+      internalID: 2138532652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_307
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 298
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd7b14b0998034ebd1724ea06e58ff
+      internalID: 383871083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_308
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 307
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a91223794b7b694d8ca5414fc185b3e
+      internalID: 717759409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_309
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 299
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f60fa409cd8334795306fde00264c8
+      internalID: 551771368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_310
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 296
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f303b92bd2700bd47ba61c7701553a54
+      internalID: -1307794835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_311
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 299
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f91395fe972a804e863925b2a24c93d
+      internalID: 1274889390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_312
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 307
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206e1735727393d4e9ad093ec4642db4
+      internalID: -462958953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_313
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 307
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a429e6e92b457f45897930579a25fc7
+      internalID: -64972385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_314
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 299
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5785bcba1655b5e4b8812428126ca896
+      internalID: 1007637310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_315
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 296
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad3f005949ea64591285c78bef91dd
+      internalID: -1501521867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_316
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 299
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5753f839747cf8449a0bb68cfdb3327b
+      internalID: 1774430324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_317
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 307
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b8dd00779608949ad39ba129f62b8b
+      internalID: -889588085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_318
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 307
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7bebc26e7e72146ba5f7a048279cec
+      internalID: 1062672347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_319
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 299
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab1ca792782899428516611dfaec5df
+      internalID: 1077841805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_320
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 295
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b114483a2fd334b9028428b65700ca
+      internalID: 1235846109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_321
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 299
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b279057f1cc5d994c9697e93f9cb4860
+      internalID: 942190621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_322
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 307
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a794cbe07057243b8addd13542a5e7
+      internalID: 1807190204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_323
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 135
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d1e45bee6f4f049b0f4576ff2bd242
+      internalID: 1485711114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_324
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 134
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bb8a8c1dfef5f4ea6f79290421676d
+      internalID: -1600727625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_325
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 135
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6cc3048d747274a815f27d6590cd28
+      internalID: -1270284323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_326
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 133
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f539207577fb6e4682b3fca4d8ad79c
+      internalID: -62715675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_327
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 133
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095dfa9b341bb584986e7c939b5f2ac5
+      internalID: -603910049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_328
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 133
+        width: 87
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be74561f12fb25641bf4393b3e3842dc
+      internalID: 1825440504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_329
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 131
+        width: 75
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ef8728789cd574991fbcd70612317e
+      internalID: 239839298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_330
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 133
+        width: 77
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300d2f5d6917da5409811494e470e9aa
+      internalID: -1555068345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_331
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 207
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24b7b4b081732f4bb357e8a66c9d7cf
+      internalID: 451352683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neco_arc_in_spelunky_in_real_life_332
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 110
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3b94a10467d344d86b39cce213c97e
+      internalID: -1697650298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -128,7 +7058,340 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      neco_arc_in_spelunky_in_real_life_16: 227005227
+      neco_arc_in_spelunky_in_real_life_105: -641658615
+      neco_arc_in_spelunky_in_real_life_140: -1069098162
+      neco_arc_in_spelunky_in_real_life_3: 553006936
+      neco_arc_in_spelunky_in_real_life_76: 46069387
+      neco_arc_in_spelunky_in_real_life_38: 2135495882
+      neco_arc_in_spelunky_in_real_life_129: 2041617252
+      neco_arc_in_spelunky_in_real_life_224: -1511988801
+      neco_arc_in_spelunky_in_real_life_165: -1311057333
+      neco_arc_in_spelunky_in_real_life_243: 640561408
+      neco_arc_in_spelunky_in_real_life_148: -473060703
+      neco_arc_in_spelunky_in_real_life_264: -484373563
+      neco_arc_in_spelunky_in_real_life_167: -1408748544
+      neco_arc_in_spelunky_in_real_life_107: -1172622508
+      neco_arc_in_spelunky_in_real_life_4: -1283314404
+      neco_arc_in_spelunky_in_real_life_146: -558701786
+      neco_arc_in_spelunky_in_real_life_280: -1940470925
+      neco_arc_in_spelunky_in_real_life_89: -1652619508
+      neco_arc_in_spelunky_in_real_life_147: -554691411
+      neco_arc_in_spelunky_in_real_life_104: -1533931913
+      neco_arc_in_spelunky_in_real_life_198: -2093535639
+      neco_arc_in_spelunky_in_real_life_296: 656540582
+      neco_arc_in_spelunky_in_real_life_196: -779398162
+      neco_arc_in_spelunky_in_real_life_115: 1026170700
+      neco_arc_in_spelunky_in_real_life_254: 618328176
+      neco_arc_in_spelunky_in_real_life_151: 125155674
+      neco_arc_in_spelunky_in_real_life_28: 1126984032
+      neco_arc_in_spelunky_in_real_life_106: -195090024
+      neco_arc_in_spelunky_in_real_life_182: 1664958923
+      neco_arc_in_spelunky_in_real_life_331: 451352683
+      neco_arc_in_spelunky_in_real_life_131: -236976753
+      neco_arc_in_spelunky_in_real_life_122: -1512960278
+      neco_arc_in_spelunky_in_real_life_63: 829100932
+      neco_arc_in_spelunky_in_real_life_297: 619836650
+      neco_arc_in_spelunky_in_real_life_72: 1649145986
+      neco_arc_in_spelunky_in_real_life_232: -1956266795
+      neco_arc_in_spelunky_in_real_life_83: 1293555478
+      neco_arc_in_spelunky_in_real_life_103: 1757344597
+      neco_arc_in_spelunky_in_real_life_186: -219165353
+      neco_arc_in_spelunky_in_real_life_119: 1570135207
+      neco_arc_in_spelunky_in_real_life_316: 1774430324
+      neco_arc_in_spelunky_in_real_life_231: -385952792
+      neco_arc_in_spelunky_in_real_life_309: 551771368
+      neco_arc_in_spelunky_in_real_life_40: -472309038
+      neco_arc_in_spelunky_in_real_life_116: 274524377
+      neco_arc_in_spelunky_in_real_life_11: -867726567
+      neco_arc_in_spelunky_in_real_life_120: -384380802
+      neco_arc_in_spelunky_in_real_life_39: 1848506598
+      neco_arc_in_spelunky_in_real_life_92: -953929038
+      neco_arc_in_spelunky_in_real_life_221: -1068661237
+      neco_arc_in_spelunky_in_real_life_310: -1307794835
+      neco_arc_in_spelunky_in_real_life_51: 1974773956
+      neco_arc_in_spelunky_in_real_life_227: -806147538
+      neco_arc_in_spelunky_in_real_life_5: -1852193773
+      neco_arc_in_spelunky_in_real_life_33: -1805855130
+      neco_arc_in_spelunky_in_real_life_48: -1945261633
+      neco_arc_in_spelunky_in_real_life_272: -55197123
+      neco_arc_in_spelunky_in_real_life_136: -1887380334
+      neco_arc_in_spelunky_in_real_life_263: 2031846433
+      neco_arc_in_spelunky_in_real_life_118: 1974814122
+      neco_arc_in_spelunky_in_real_life_245: 2088365929
+      neco_arc_in_spelunky_in_real_life_188: 2132816037
+      neco_arc_in_spelunky_in_real_life_220: -1475134986
+      neco_arc_in_spelunky_in_real_life_7: 1646155129
+      neco_arc_in_spelunky_in_real_life_53: -1872116597
+      neco_arc_in_spelunky_in_real_life_287: -455644796
+      neco_arc_in_spelunky_in_real_life_261: -1942541367
+      neco_arc_in_spelunky_in_real_life_44: 1882640855
+      neco_arc_in_spelunky_in_real_life_247: -1374530352
+      neco_arc_in_spelunky_in_real_life_179: 777117396
+      neco_arc_in_spelunky_in_real_life_326: -62715675
+      neco_arc_in_spelunky_in_real_life_8: 2086226753
+      neco_arc_in_spelunky_in_real_life_329: 239839298
+      neco_arc_in_spelunky_in_real_life_112: -963031970
+      neco_arc_in_spelunky_in_real_life_152: -1153620714
+      neco_arc_in_spelunky_in_real_life_284: 665545628
+      neco_arc_in_spelunky_in_real_life_99: 1590983258
+      neco_arc_in_spelunky_in_real_life_98: -1217054096
+      neco_arc_in_spelunky_in_real_life_100: 1174538933
+      neco_arc_in_spelunky_in_real_life_70: 1273161416
+      neco_arc_in_spelunky_in_real_life_203: -801639807
+      neco_arc_in_spelunky_in_real_life_214: -675862970
+      neco_arc_in_spelunky_in_real_life_209: -623329051
+      neco_arc_in_spelunky_in_real_life_229: 292551133
+      neco_arc_in_spelunky_in_real_life_273: -867444126
+      neco_arc_in_spelunky_in_real_life_176: -169524758
+      neco_arc_in_spelunky_in_real_life_124: 1314871449
+      neco_arc_in_spelunky_in_real_life_330: -1555068345
+      neco_arc_in_spelunky_in_real_life_88: -1531054678
+      neco_arc_in_spelunky_in_real_life_307: 383871083
+      neco_arc_in_spelunky_in_real_life_321: 942190621
+      neco_arc_in_spelunky_in_real_life_46: -1879241860
+      neco_arc_in_spelunky_in_real_life_110: 398125826
+      neco_arc_in_spelunky_in_real_life_225: -1100279325
+      neco_arc_in_spelunky_in_real_life_314: 1007637310
+      neco_arc_in_spelunky_in_real_life_68: 1392190825
+      neco_arc_in_spelunky_in_real_life_267: 360851684
+      neco_arc_in_spelunky_in_real_life_211: 743550495
+      neco_arc_in_spelunky_in_real_life_250: -1119203039
+      neco_arc_in_spelunky_in_real_life_278: 541907247
+      neco_arc_in_spelunky_in_real_life_219: 1958193133
+      neco_arc_in_spelunky_in_real_life_30: 1189160536
+      neco_arc_in_spelunky_in_real_life_111: -1098339089
+      neco_arc_in_spelunky_in_real_life_253: -1648327474
+      neco_arc_in_spelunky_in_real_life_327: -603910049
+      neco_arc_in_spelunky_in_real_life_233: 1767658363
+      neco_arc_in_spelunky_in_real_life_2: 173914678
+      neco_arc_in_spelunky_in_real_life_320: 1235846109
+      neco_arc_in_spelunky_in_real_life_315: -1501521867
+      neco_arc_in_spelunky_in_real_life_195: -65207685
+      neco_arc_in_spelunky_in_real_life_41: 968169540
+      neco_arc_in_spelunky_in_real_life_161: -865545014
+      neco_arc_in_spelunky_in_real_life_300: 1006331959
+      neco_arc_in_spelunky_in_real_life_169: -128143895
+      neco_arc_in_spelunky_in_real_life_58: -1860531399
+      neco_arc_in_spelunky_in_real_life_288: -1810205482
+      neco_arc_in_spelunky_in_real_life_15: -2134443559
+      neco_arc_in_spelunky_in_real_life_23: 1764081617
+      neco_arc_in_spelunky_in_real_life_207: -1839226809
+      neco_arc_in_spelunky_in_real_life_82: -47927024
+      neco_arc_in_spelunky_in_real_life_26: 2019598312
+      neco_arc_in_spelunky_in_real_life_137: -2042331017
+      neco_arc_in_spelunky_in_real_life_201: -350676734
+      neco_arc_in_spelunky_in_real_life_257: -918928
+      neco_arc_in_spelunky_in_real_life_205: 993034589
+      neco_arc_in_spelunky_in_real_life_230: 1650554331
+      neco_arc_in_spelunky_in_real_life_234: 1166792001
+      neco_arc_in_spelunky_in_real_life_102: 861622940
+      neco_arc_in_spelunky_in_real_life_43: -2139794544
+      neco_arc_in_spelunky_in_real_life_171: -1194583429
+      neco_arc_in_spelunky_in_real_life_24: 1270077092
+      neco_arc_in_spelunky_in_real_life_79: 117523493
+      neco_arc_in_spelunky_in_real_life_283: -292354371
+      neco_arc_in_spelunky_in_real_life_293: -1688700427
+      neco_arc_in_spelunky_in_real_life_217: 909319124
+      neco_arc_in_spelunky_in_real_life_168: -1533945885
+      neco_arc_in_spelunky_in_real_life_206: -274093877
+      neco_arc_in_spelunky_in_real_life_97: 35000794
+      neco_arc_in_spelunky_in_real_life_1: 266696797
+      neco_arc_in_spelunky_in_real_life_36: 2048805041
+      neco_arc_in_spelunky_in_real_life_255: -356897646
+      neco_arc_in_spelunky_in_real_life_317: -889588085
+      neco_arc_in_spelunky_in_real_life_311: 1274889390
+      neco_arc_in_spelunky_in_real_life_66: -459856697
+      neco_arc_in_spelunky_in_real_life_47: 675906347
+      neco_arc_in_spelunky_in_real_life_239: 639142951
+      neco_arc_in_spelunky_in_real_life_164: -2106134804
+      neco_arc_in_spelunky_in_real_life_276: -98183014
+      neco_arc_in_spelunky_in_real_life_113: -1992675595
+      neco_arc_in_spelunky_in_real_life_200: 82350679
+      neco_arc_in_spelunky_in_real_life_52: -444271928
+      neco_arc_in_spelunky_in_real_life_170: -1278669382
+      neco_arc_in_spelunky_in_real_life_177: -429836128
+      neco_arc_in_spelunky_in_real_life_94: 989714737
+      neco_arc_in_spelunky_in_real_life_22: -1836585125
+      neco_arc_in_spelunky_in_real_life_275: -1846900175
+      neco_arc_in_spelunky_in_real_life_318: 1062672347
+      neco_arc_in_spelunky_in_real_life_332: -1697650298
+      neco_arc_in_spelunky_in_real_life_163: -22673236
+      neco_arc_in_spelunky_in_real_life_260: -114547412
+      neco_arc_in_spelunky_in_real_life_291: -1479586457
+      neco_arc_in_spelunky_in_real_life_156: 1740593912
+      neco_arc_in_spelunky_in_real_life_228: -1918545895
+      neco_arc_in_spelunky_in_real_life_34: -1248571500
+      neco_arc_in_spelunky_in_real_life_93: -889818260
+      neco_arc_in_spelunky_in_real_life_139: -987155347
+      neco_arc_in_spelunky_in_real_life_87: 579660333
+      neco_arc_in_spelunky_in_real_life_268: -1741832298
+      neco_arc_in_spelunky_in_real_life_294: -1205251733
+      neco_arc_in_spelunky_in_real_life_242: -2095762668
+      neco_arc_in_spelunky_in_real_life_19: -1741428048
+      neco_arc_in_spelunky_in_real_life_305: -679457181
+      neco_arc_in_spelunky_in_real_life_32: -759099127
+      neco_arc_in_spelunky_in_real_life_78: 633243179
+      neco_arc_in_spelunky_in_real_life_37: 886384520
+      neco_arc_in_spelunky_in_real_life_150: -1817389900
+      neco_arc_in_spelunky_in_real_life_244: 2055037514
+      neco_arc_in_spelunky_in_real_life_67: 131711886
+      neco_arc_in_spelunky_in_real_life_183: 816460784
+      neco_arc_in_spelunky_in_real_life_90: -1835764955
+      neco_arc_in_spelunky_in_real_life_240: -1176861100
+      neco_arc_in_spelunky_in_real_life_303: 627546381
+      neco_arc_in_spelunky_in_real_life_189: 1369006707
+      neco_arc_in_spelunky_in_real_life_21: 2075736556
+      neco_arc_in_spelunky_in_real_life_35: -2073395354
+      neco_arc_in_spelunky_in_real_life_126: -1710072061
+      neco_arc_in_spelunky_in_real_life_13: 1094054290
+      neco_arc_in_spelunky_in_real_life_42: 654631485
+      neco_arc_in_spelunky_in_real_life_134: 1184318980
+      neco_arc_in_spelunky_in_real_life_213: 489703941
+      neco_arc_in_spelunky_in_real_life_187: 452857960
+      neco_arc_in_spelunky_in_real_life_281: -546869658
+      neco_arc_in_spelunky_in_real_life_56: 1631984434
+      neco_arc_in_spelunky_in_real_life_64: 252417455
+      neco_arc_in_spelunky_in_real_life_127: -4943254
+      neco_arc_in_spelunky_in_real_life_252: 2059095627
+      neco_arc_in_spelunky_in_real_life_251: -2095746174
+      neco_arc_in_spelunky_in_real_life_184: 148120480
+      neco_arc_in_spelunky_in_real_life_274: 74700673
+      neco_arc_in_spelunky_in_real_life_6: -1319745471
+      neco_arc_in_spelunky_in_real_life_20: 502565947
+      neco_arc_in_spelunky_in_real_life_304: 1409653926
+      neco_arc_in_spelunky_in_real_life_133: 107663066
+      neco_arc_in_spelunky_in_real_life_144: -1612658042
+      neco_arc_in_spelunky_in_real_life_299: 484896551
+      neco_arc_in_spelunky_in_real_life_191: -1522664810
+      neco_arc_in_spelunky_in_real_life_49: -118426947
+      neco_arc_in_spelunky_in_real_life_210: 105883641
+      neco_arc_in_spelunky_in_real_life_256: 1654617932
+      neco_arc_in_spelunky_in_real_life_132: -785971805
+      neco_arc_in_spelunky_in_real_life_166: -1428771067
+      neco_arc_in_spelunky_in_real_life_185: 724388194
+      neco_arc_in_spelunky_in_real_life_259: -990180961
+      neco_arc_in_spelunky_in_real_life_62: -1426087076
+      neco_arc_in_spelunky_in_real_life_202: -740147212
+      neco_arc_in_spelunky_in_real_life_84: 1746845476
+      neco_arc_in_spelunky_in_real_life_96: -1818622290
+      neco_arc_in_spelunky_in_real_life_277: 751777564
+      neco_arc_in_spelunky_in_real_life_246: -123110571
+      neco_arc_in_spelunky_in_real_life_27: -543302946
+      neco_arc_in_spelunky_in_real_life_282: -598163984
+      neco_arc_in_spelunky_in_real_life_86: -1732572454
+      neco_arc_in_spelunky_in_real_life_155: 1876345317
+      neco_arc_in_spelunky_in_real_life_289: 1456963622
+      neco_arc_in_spelunky_in_real_life_69: -1406913587
+      neco_arc_in_spelunky_in_real_life_95: -1103728860
+      neco_arc_in_spelunky_in_real_life_262: 1291196039
+      neco_arc_in_spelunky_in_real_life_302: -988904604
+      neco_arc_in_spelunky_in_real_life_175: 285042442
+      neco_arc_in_spelunky_in_real_life_174: -2086637264
+      neco_arc_in_spelunky_in_real_life_143: -1836304302
+      neco_arc_in_spelunky_in_real_life_17: 635351170
+      neco_arc_in_spelunky_in_real_life_117: -579200670
+      neco_arc_in_spelunky_in_real_life_18: 260273765
+      neco_arc_in_spelunky_in_real_life_12: -11759595
+      neco_arc_in_spelunky_in_real_life_208: -1918580401
+      neco_arc_in_spelunky_in_real_life_325: -1270284323
+      neco_arc_in_spelunky_in_real_life_279: -1390075893
+      neco_arc_in_spelunky_in_real_life_50: 1870426406
+      neco_arc_in_spelunky_in_real_life_125: -1802205170
+      neco_arc_in_spelunky_in_real_life_292: -178730202
+      neco_arc_in_spelunky_in_real_life_324: -1600727625
+      neco_arc_in_spelunky_in_real_life_91: -1023259888
+      neco_arc_in_spelunky_in_real_life_199: -28768706
+      neco_arc_in_spelunky_in_real_life_162: -1258177481
+      neco_arc_in_spelunky_in_real_life_328: 1825440504
+      neco_arc_in_spelunky_in_real_life_145: -1847381786
+      neco_arc_in_spelunky_in_real_life_25: 1003512511
+      neco_arc_in_spelunky_in_real_life_130: 1904389203
+      neco_arc_in_spelunky_in_real_life_258: 1286008292
+      neco_arc_in_spelunky_in_real_life_85: -327886425
+      neco_arc_in_spelunky_in_real_life_142: 1123890331
+      neco_arc_in_spelunky_in_real_life_190: 1256626525
+      neco_arc_in_spelunky_in_real_life_295: 1314888436
+      neco_arc_in_spelunky_in_real_life_73: -1211560250
+      neco_arc_in_spelunky_in_real_life_108: -242286716
+      neco_arc_in_spelunky_in_real_life_160: -51158015
+      neco_arc_in_spelunky_in_real_life_298: -1302402603
+      neco_arc_in_spelunky_in_real_life_193: -1853945892
+      neco_arc_in_spelunky_in_real_life_235: -52669662
+      neco_arc_in_spelunky_in_real_life_9: -944535959
+      neco_arc_in_spelunky_in_real_life_181: -439845165
+      neco_arc_in_spelunky_in_real_life_290: -1669651056
+      neco_arc_in_spelunky_in_real_life_248: -570669464
+      neco_arc_in_spelunky_in_real_life_77: -607363807
+      neco_arc_in_spelunky_in_real_life_121: 727932504
+      neco_arc_in_spelunky_in_real_life_236: 1766765278
+      neco_arc_in_spelunky_in_real_life_249: -1465730029
+      neco_arc_in_spelunky_in_real_life_223: 2060335473
+      neco_arc_in_spelunky_in_real_life_157: -1981766531
+      neco_arc_in_spelunky_in_real_life_215: -467929902
+      neco_arc_in_spelunky_in_real_life_237: -1602893572
+      neco_arc_in_spelunky_in_real_life_312: -462958953
+      neco_arc_in_spelunky_in_real_life_194: 1688078927
+      neco_arc_in_spelunky_in_real_life_241: -494772252
+      neco_arc_in_spelunky_in_real_life_80: 1528949979
+      neco_arc_in_spelunky_in_real_life_192: -1268889891
+      neco_arc_in_spelunky_in_real_life_180: -1274027017
+      neco_arc_in_spelunky_in_real_life_204: -666428325
+      neco_arc_in_spelunky_in_real_life_153: 542138149
+      neco_arc_in_spelunky_in_real_life_158: -82447633
+      neco_arc_in_spelunky_in_real_life_114: -80344248
+      neco_arc_in_spelunky_in_real_life_323: 1485711114
+      neco_arc_in_spelunky_in_real_life_135: -1868049979
+      neco_arc_in_spelunky_in_real_life_74: -1692323177
+      neco_arc_in_spelunky_in_real_life_285: -994259592
+      neco_arc_in_spelunky_in_real_life_265: -167280989
+      neco_arc_in_spelunky_in_real_life_301: 1767193432
+      neco_arc_in_spelunky_in_real_life_271: -1041533508
+      neco_arc_in_spelunky_in_real_life_266: -245076658
+      neco_arc_in_spelunky_in_real_life_178: -1697015015
+      neco_arc_in_spelunky_in_real_life_238: -1949877380
+      neco_arc_in_spelunky_in_real_life_31: 1783669354
+      neco_arc_in_spelunky_in_real_life_60: -159935118
+      neco_arc_in_spelunky_in_real_life_322: 1807190204
+      neco_arc_in_spelunky_in_real_life_45: 1037512575
+      neco_arc_in_spelunky_in_real_life_14: -45727779
+      neco_arc_in_spelunky_in_real_life_0: -529798593
+      neco_arc_in_spelunky_in_real_life_141: -1879487287
+      neco_arc_in_spelunky_in_real_life_319: 1077841805
+      neco_arc_in_spelunky_in_real_life_29: -2004832862
+      neco_arc_in_spelunky_in_real_life_286: 1672269311
+      neco_arc_in_spelunky_in_real_life_222: -81254948
+      neco_arc_in_spelunky_in_real_life_81: 1922098774
+      neco_arc_in_spelunky_in_real_life_55: -1782801410
+      neco_arc_in_spelunky_in_real_life_197: -2043012072
+      neco_arc_in_spelunky_in_real_life_71: -1932581181
+      neco_arc_in_spelunky_in_real_life_128: -535197756
+      neco_arc_in_spelunky_in_real_life_172: -140998799
+      neco_arc_in_spelunky_in_real_life_138: 552798950
+      neco_arc_in_spelunky_in_real_life_313: -64972385
+      neco_arc_in_spelunky_in_real_life_10: -228445166
+      neco_arc_in_spelunky_in_real_life_159: -130926269
+      neco_arc_in_spelunky_in_real_life_61: -984926795
+      neco_arc_in_spelunky_in_real_life_173: -2075314180
+      neco_arc_in_spelunky_in_real_life_149: -1275810660
+      neco_arc_in_spelunky_in_real_life_59: -1218990211
+      neco_arc_in_spelunky_in_real_life_75: 1101075205
+      neco_arc_in_spelunky_in_real_life_154: -368601902
+      neco_arc_in_spelunky_in_real_life_212: 322818022
+      neco_arc_in_spelunky_in_real_life_306: 2138532652
+      neco_arc_in_spelunky_in_real_life_101: -348714697
+      neco_arc_in_spelunky_in_real_life_65: -565640597
+      neco_arc_in_spelunky_in_real_life_226: 558170987
+      neco_arc_in_spelunky_in_real_life_308: 717759409
+      neco_arc_in_spelunky_in_real_life_270: 557810821
+      neco_arc_in_spelunky_in_real_life_109: -1861026069
+      neco_arc_in_spelunky_in_real_life_123: 1124184295
+      neco_arc_in_spelunky_in_real_life_269: 1288942709
+      neco_arc_in_spelunky_in_real_life_218: 381153698
+      neco_arc_in_spelunky_in_real_life_57: -59196495
+      neco_arc_in_spelunky_in_real_life_216: 1249390353
+      neco_arc_in_spelunky_in_real_life_54: -201875120
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
