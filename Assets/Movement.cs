@@ -16,6 +16,6 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        _rb.velocity = Vector2.right * Input.GetAxisRaw("Horizontal") * speed;
+        _rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * speed, _rb.velocity.y);
     }
 }
