@@ -23,7 +23,11 @@ public class Movement : MonoBehaviour
     {
         if ((bool)Physics2D.BoxCast(_box.bounds.center, _box.bounds.size, 0f, Vector2.down, .1f, groundLayer ))
         {
-            
+            _grounded = true;
+        }
+        else
+        {
+            _grounded = false;
         }
         
         if(Input.GetKeyDown(KeyCode.Space) && _grounded)
