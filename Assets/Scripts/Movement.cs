@@ -8,7 +8,7 @@ public class Movement : MonoBehaviour
     [SerializeField] private float speed;
     [SerializeField] private float jumpHeight;
     private bool _grounded;
-    private BoxCollider2D _box;
+    private CapsuleCollider2D _box;
     [SerializeField] private LayerMask groundLayer;
     private Animator _animator;
 
@@ -16,7 +16,7 @@ public class Movement : MonoBehaviour
     void Start()
     {
         _animator = gameObject.GetComponent<Animator>();
-        _box = gameObject.GetComponent<BoxCollider2D>();
+        _box = gameObject.GetComponent<CapsuleCollider2D>();
         _rb = gameObject.GetComponent<Rigidbody2D>();
     }
 
