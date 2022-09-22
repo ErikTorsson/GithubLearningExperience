@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -11,10 +12,12 @@ public class Movement : MonoBehaviour
     private CapsuleCollider2D _box;
     [SerializeField] private LayerMask groundLayer;
     private Animator _animator;
+    public Vector2 checkPoint;
 
     // Start is called before the first frame update
     void Start()
     {
+        checkPoint = transform.position;
         _animator = gameObject.GetComponent<Animator>();
         _box = gameObject.GetComponent<CapsuleCollider2D>();
         _rb = gameObject.GetComponent<Rigidbody2D>();
@@ -45,5 +48,18 @@ public class Movement : MonoBehaviour
         {
             _animator.Play("Idle");
         }
+    }
+
+    private void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.gameObject.CompareTag("Enemy"))
+        {
+            death();
+        }
+    }
+
+    void death()
+    {
+        transform.position = checkPoint;
     }
 }
