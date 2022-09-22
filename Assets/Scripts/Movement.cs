@@ -10,10 +10,12 @@ public class Movement : MonoBehaviour
     private bool _grounded;
     private BoxCollider2D _box;
     [SerializeField] private LayerMask groundLayer;
+    private Animator _animator;
 
     // Start is called before the first frame update
     void Start()
     {
+        _animator = gameObject.GetComponent<Animator>();
         _box = gameObject.GetComponent<BoxCollider2D>();
         _rb = gameObject.GetComponent<Rigidbody2D>();
     }
@@ -34,5 +36,14 @@ public class Movement : MonoBehaviour
             _rb.AddForce(Vector2.up * jumpHeight);
         
         _rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * speed, _rb.velocity.y);
+
+        if(Input.GetAxisRaw("Horizontal") != 0)
+        {
+            _animator.Play("Run");
+        }
+        else
+        {
+            _animator.Play("Idle");
+        }
     }
 }
